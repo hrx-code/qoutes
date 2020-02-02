@@ -51,9 +51,12 @@ a :hover{
 	justify-content:center;
 }
 .childflexbox2{
-	display:flex;
-	justify-content:center;
-	padding-top:1em;
+	bottom:40%;
+	position : fixed;
+	margin:0;
+	padding-left:37%;
+	padding-right:35%;
+	
 }
 .buton:hover{
 	background-color:lightblue;
