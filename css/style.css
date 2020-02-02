@@ -1,8 +1,22 @@
 /*  */
-
-body{
-	background-repeat:no-repeat;
-	background-size:100% 100%;
+body,html{
+	height:100%;
+}
+.phuto-rkhana-hai{
+  width:100%;
+  height:100%;
+  background:url("../images/Back.jpeg");
+  background-position:center center;
+  background-repeat:no-repeat;
+  background-size:cover;
+}
+a{
+	text-decoration:none;
+}
+a :hover{
+	color:green;
+	background-color:gold;
+	
 }
 .flex-bna-rhe{
 	display:flex;
