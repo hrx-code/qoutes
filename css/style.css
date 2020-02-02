@@ -16,31 +16,31 @@ a{
 a :hover{
 	color:green;
 	background-color:gold;
-	
+
 }
 .flex-bna-rhe{
 	display:flex;
 	justify-content:center;
-	
+
 }
 
 .flexbox{
 	display:flex;
-	
+
 	flex-direction:column;
 }
 .box{
 	background: url('../images/QouteBox.jpg');
 	font-family: Open Sans;
-	
+
 }
 .box{
-	
+
 	width:60%;
 	height:60%;
 	border:2px solid #000fff;
-	
-	
+
+
 }
 .box p {
 	padding: 0em 0.7em;
@@ -51,12 +51,12 @@ a :hover{
 	justify-content:center;
 }
 .childflexbox2{
-	bottom:40%;
+	bottom:10%;
 	position : fixed;
 	margin:0;
 	padding-left:37%;
 	padding-right:35%;
-	
+
 }
 .buton:hover{
 	background-color:lightblue;
@@ -64,6 +64,6 @@ a :hover{
 .buton:active {
     box-shadow: inset -2px -2px 3px rgba(255, 255, 255, .6),
                 inset 2px 2px 3px rgba(0, 0, 0, .6);
-} 
+}
 
 @
