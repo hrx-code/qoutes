@@ -15,13 +15,11 @@ let textclass= document.querySelector(".childflexbox1");
 
 myfunction = function(){
    textclass.querySelector("p").innerHTML = qoutes[Math.floor(Math.random()*(qoutes.length))];
-   textclass.querySelector()
+    console.log("harsh");
 	
 }
 
 let click = document.querySelector("button");
 click.addEventListener('click', myfunction);
 
-let IMAGE=document.querySelector("backgroundImage");
-console.log(IMAGE);
 
